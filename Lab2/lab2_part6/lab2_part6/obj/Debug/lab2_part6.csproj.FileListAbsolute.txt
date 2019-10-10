@@ -1,0 +1,9 @@
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\bin\Debug\lab2_part6.exe.config
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\bin\Debug\lab2_part6.exe
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\bin\Debug\lab2_part6.pdb
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.csprojAssemblyReference.cache
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.Form1.resources
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.Properties.Resources.resources
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.csproj.GenerateResource.cache
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.exe
+D:\УНИ\3 курс\5 семестър\C#\lab2_part6\lab2_part6\obj\Debug\lab2_part6.pdb

@@ -34,7 +34,7 @@ namespace lab3_part6
                 textBox1.Clear();
             }
             
-            if (generated_numb > input_numb) 
+            if (generated_numb > input_numb)
             {
                 MessageBox.Show("The inputed number is too low");
             }else if (generated_numb < input_numb)

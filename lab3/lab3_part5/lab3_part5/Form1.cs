@@ -21,7 +21,7 @@ namespace lab3_part5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var labels = new List<Label> { label1, label2, label3, label5, label6, label7 };
+            List<Label> labels = new List<Label> { label1, label2, label3, label5, label6, label7 };
             foreach (var label in labels)
             {
                 int numb = rand.Next(49) + 1;

@@ -25,6 +25,11 @@ namespace lab3_part4
                 DateTime dateOfBirth = new DateTime(int.Parse(textBox1.Text), int.Parse(textBox2.Text), int.Parse(textBox3.Text));
                 age_years = DateTime.Now.Year - dateOfBirth.Year;
                 age_months = DateTime.Now.Month - dateOfBirth.Month;
+                if (age_months < 0) 
+                {
+                    age_years--;
+                    age_months = 12 - Math.Abs(age_months);
+                }
                 MessageBox.Show("Your exact age is: " + age_years.ToString() + " years and " + age_months.ToString() + " months!"); 
             }
             catch

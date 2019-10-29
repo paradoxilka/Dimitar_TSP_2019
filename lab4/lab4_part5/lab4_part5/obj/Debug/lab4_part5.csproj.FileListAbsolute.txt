@@ -1,0 +1,14 @@
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\bin\Debug\lab4_part5.exe.config
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\bin\Debug\lab4_part5.exe
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\bin\Debug\lab4_part5.pdb
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\bin\Debug\Interop.WMPLib.dll
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\bin\Debug\AxInterop.WMPLib.dll
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.csprojAssemblyReference.cache
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\Interop.WMPLib.dll
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\AxInterop.WMPLib.dll
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.csproj.ResolveComReference.cache
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.Form1.resources
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.Properties.Resources.resources
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.csproj.GenerateResource.cache
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.exe
+D:\УНИ\3 курс\5 семестър\C#\lab4\lab4_part5\lab4_part5\obj\Debug\lab4_part5.pdb

@@ -1,0 +1,9 @@
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\bin\Debug\lab7_part1.exe.config
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\bin\Debug\lab7_part1.exe
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\bin\Debug\lab7_part1.pdb
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.Form1.resources
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.Properties.Resources.resources
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.csproj.GenerateResource.cache
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.exe
+C:\Users\dimit\source\repos\lab7_part1\lab7_part1\obj\Debug\lab7_part1.pdb
